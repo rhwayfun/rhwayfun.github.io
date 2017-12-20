@@ -1,7 +1,5 @@
 # rhwayfun.github.io
 
-## Introduction
-
 本项目是基于Github Pages + Hexo搭建的个人独立博客，后面博客更新会陆续从CSDN迁移到这里，欢迎访问哈
 
 原博客：
